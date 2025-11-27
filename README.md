@@ -10,7 +10,7 @@ Trabalho com **Python, Django, FastAPI e bancos de dados relacionais**, sempre b
 ## 🚀 Sobre mim  
 
 - 🎓 **Engenharia de Software – Estácio (4º semestre)**  
-- 💼 **Desenvolvedor Autônomo** desde 2017  
+- 💼 **Desenvolvedor Autônomo** desde 2020 
 - 🧠 Foco em **automação de processos, APIs, IA e análise de dados**  
 - 💡 Gosto de integrar tecnologia e lógica para transformar dados em soluções práticas  
 - ⚙️ Experiência com **desenvolvimento full stack, versionamento e deploy em nuvem**
